@@ -11,13 +11,13 @@ public class ArrayPracOne{
       nums[5] = 49;
       nums[6] = 52; 
       nums[7] = 51;
-      System.out.println("num 1 = "+nums[0]);
-      System.out.println("num 2 = "+nums[1]);
-      System.out.println("num 3 = "+nums[2]);
-      System.out.println("num 4 = "+nums[3]);
-      System.out.println("num 5 = "+nums[4]);
-      System.out.println("num 6 = "+nums[5]);
-      System.out.println("num 7 = "+nums[6]);
-      System.out.println("num 8 = "+nums[7]);
+      System.out.println("number #1 = "+nums[0]);
+      System.out.println("number #2 = "+nums[1]);
+      System.out.println("number #3 = "+nums[2]);
+      System.out.println("number #4 = "+nums[3]);
+      System.out.println("number #5 = "+nums[4]);
+      System.out.println("number #6 = "+nums[5]);
+      System.out.println("number #7 = "+nums[6]);
+      System.out.println("number #8 = "+nums[7]);
    }
 }
